@@ -1,8 +1,20 @@
-# React + Vite
+<h1> IMDB CLONE A MOVIES RECOMMDETION </h1>
+COMPANY: CODTECH IT SOLUTIONS<br/>
+NAME: ARMAN H AMRELIYA<br/>
+INTERN ID: REACT.JS WEB DEVELOPMENT<br/>
+DURATION: 4 WEEKS<br/>
+TASK DETAILS:<br/>
+CREATE AN APP THAT FETCHES MOVIE
+DETAILS FROM A PUBLIC API (LIKE OMDB)
+AND ALLOWS USERS TO SEARCH AND SAVE
+FAVORITES.
+<br/>
+CODTECH
+INS T R U C T I O NS :
+MOVIE SEARCH APP
+DELIVERABLE: A FEATURE-RICH REACT
+APP WITH A CLEAN UI.
+<br/>
+output:<br/>
+![Image](https://github.com/user-attachments/assets/51732b43-c3c6-4b9d-a3cf-aefa0a9e8f41)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
